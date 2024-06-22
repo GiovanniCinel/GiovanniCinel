@@ -51,6 +51,7 @@
 </h2>
 <div align = "center">
   <img src="https://komarev.com/ghpvc/?username=GiovanniCinel&style=flat-square&color=blue" alt=""/>
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GiovanniCinel&theme=dark&background=000000)](https://git.io/streak-stats)
 </div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GiovanniCinel&theme=dark&background=000000)](https://git.io/streak-stats)
+
