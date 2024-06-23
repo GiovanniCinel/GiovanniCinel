@@ -77,14 +77,18 @@
 </div>
 
 <h2 align= "center">
-  :fire: My Stats:
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="20" height="20" /> My Stats:
 </h2>
-<div align = "center">
-  <img src="https://komarev.com/ghpvc/?username=GiovanniCinel&style=flat-square&color=blue" alt=""/>
-
-  [![wakatime](https://wakatime.com/badge/user/309e0ca3-387a-49b7-b5d7-56486af110d9.svg)](https://wakatime.com/@309e0ca3-387a-49b7-b5d7-56486af110d9)
-
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GiovanniCinel&theme=dark&background=000000)](https://git.io/streak-stats)
+<div align="center">
+  <div style="display: flex; justify-content: center; gap: 20px;">
+    <img src="https://komarev.com/ghpvc/?username=GiovanniCinel&style=flat-square&color=blue" alt=""/>
+    <a href="https://wakatime.com/@309e0ca3-387a-49b7-b5d7-56486af110d9"><img src="https://wakatime.com/badge/user/309e0ca3-387a-49b7-b5d7-56486af110d9.svg" alt="Total time coded since Jun 23 2024" /></a>
+  </div>
+  <div style="margin-top: 10px;">
+    
+   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GiovanniCinel&theme=dark&background=000000)](https://git.io/streak-stats)
+ 
+  </div>
 </div>
 
 <p align="center">
