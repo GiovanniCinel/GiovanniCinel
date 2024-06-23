@@ -2,12 +2,20 @@
 
 ###
 
+<h2 align = "center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="20" height="20" /> Github Stats:
+</h2>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GiovanniCinel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GiovanniCinel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=false&hide=jupyter%20%notebook,tex" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=GiovanniCinel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GiovanniCinel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=blue-green&hide_border=false&hide=jupyter%20%notebook,tex" height="150" alt="languages graph"  />
 </div>
 
 ###
+
+<h2 align = "center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="20" height="20" /> Languages and Tools:  
+</h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -69,7 +77,7 @@
 </div>
 
 <h2 align= "center">
-  :fire: My Stats :
+  :fire: My Stats:
 </h2>
 <div align = "center">
   <img src="https://komarev.com/ghpvc/?username=GiovanniCinel&style=flat-square&color=blue" alt=""/>
@@ -79,4 +87,6 @@
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GiovanniCinel&theme=dark&background=000000)](https://git.io/streak-stats)
 </div>
 
-
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
