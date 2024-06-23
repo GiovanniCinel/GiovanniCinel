@@ -73,7 +73,9 @@
 </h2>
 <div align = "center">
   <img src="https://komarev.com/ghpvc/?username=GiovanniCinel&style=flat-square&color=blue" alt=""/>
-  
+
+  [![wakatime](https://wakatime.com/badge/user/309e0ca3-387a-49b7-b5d7-56486af110d9.svg)](https://wakatime.com/@309e0ca3-387a-49b7-b5d7-56486af110d9)
+
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GiovanniCinel&theme=dark&background=000000)](https://git.io/streak-stats)
 </div>
 
