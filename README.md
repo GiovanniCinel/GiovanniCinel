@@ -1,4 +1,13 @@
-<h1 align="center"> Hi, I'm Giovanni Cinel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </h1>
+<h1 align="center"> Hi, I'm Giovanni Cinel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
+<div align="center">
+  <a href="https://www.linkedin.com/in/giovannicinel/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:giovannicinel9@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white" alt="Email">
+  </a>
+</div>
+</h1>
 
 ###
 
